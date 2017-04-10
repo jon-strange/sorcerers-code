@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Harry Programmer and the Sorcerers Code: Scene 3
+=======
+Harry Programmer and the Sorcerer's Code: Scene 3
+>>>>>>> c0b8285871baaaff316a686349e1a11e1fea647f
